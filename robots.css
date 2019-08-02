@@ -1,0 +1,52 @@
+h1 {
+	font-size: 60px;
+	font-family: Helvetica, Serif;
+}
+h1 {
+	color: #ff0000;
+	font-family: Helvetica, fantasy, Serif;
+}
+
+.a {
+	color: green;
+}
+
+#lesrobots{
+	background-image: url("http://www.liberaldictionary.com/wp-content/uploads/2018/12/patterns.jpg");
+	background-size: 210px;
+}
+
+p{
+	padding: 50px;
+	margin-bottom: 100px;
+	display:block;
+}
+
+contact-btn{
+	float: middle;
+}
+
+contact-btn{
+	float:middle;
+}
+
+contact-btn a{
+	position:relative;
+	cursor:pointer;
+	margin: 30px;
+	padding: 10px;
+	border: 2px double blue;
+}
+
+contact-btn a:active{
+	top: 2px;
+	
+}
+
+
+
+
+
+
+
+
